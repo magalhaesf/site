@@ -1,5 +1,31 @@
 html{
-font-family:'dancing script',
+font-family: "Truculenta", sans-serif;
 
 sans serif;
+}
+
+#primeira {
+  height:200px;
+  width:200px;
+  background-color: #FF69B4;
+  display: inline-block;
+}
+
+#segunda {
+  height:200px;
+  width:200px;
+  background-color: #7FFFD4;
+  display: inline-block;
+}
+
+#terceira {
+  height:1000px;
+  width:1000px;
+  background-color: #FFFFFF;
+}
+
+#quarta {
+  height:200px;
+  width:200px;
+  background-color: #F08080;
 }
